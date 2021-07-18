@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c689dd9f6fc97a4490919758c951dfd, type: 3}
+  m_Name: Poison_Potion_2
+  m_EditorClassIdentifier: 
+  weaponId: 2
+  weaponSprite: {fileID: 8940010502782023930, guid: ccb20f9b6129bda42a43741a0e91298d, type: 3}
+  weapon: {fileID: 2762898693425081172, guid: 075bd48d4423d4b4198e019523c7bb75, type: 3}
+  useProjectile: 1
+  followCursor: 0
+  projectile: {fileID: 0}
+  fireRate: 0
+  damage: 0
+  speed: 1000
+  destroyTime: 5
+  ammo: 0
+  throwSpeed: 1000
+  throwDamage: 100
+  throwDestroyTime: 2
+  offset: {x: 0, y: 0}
+  launchPoint: {x: 0, y: 0}

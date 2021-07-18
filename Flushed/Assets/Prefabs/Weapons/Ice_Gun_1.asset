@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c689dd9f6fc97a4490919758c951dfd, type: 3}
+  m_Name: Ice_Gun_1
+  m_EditorClassIdentifier: 
+  weaponId: 1
+  weaponSprite: {fileID: -8153075134438936652, guid: d7f4b78994efabf4a9ef9f6aeb3b01b9, type: 3}
+  weapon: {fileID: 3231944274705418835, guid: 0a850d7fecf86034c962a0cd39bed1b7, type: 3}
+  useProjectile: 1
+  followCursor: 1
+  projectile: {fileID: 5584664377136616572, guid: 1cde3db6c0b9ec142bb7582e30d0debb, type: 3}
+  fireRate: 10
+  damage: 20
+  speed: 1000
+  destroyTime: 2
+  ammo: 10
+  throwSpeed: 1000
+  throwDamage: 100
+  throwDestroyTime: 2
+  offset: {x: 0, y: 0}
+  launchPoint: {x: 0, y: 0}

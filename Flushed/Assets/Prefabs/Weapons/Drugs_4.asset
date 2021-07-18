@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c689dd9f6fc97a4490919758c951dfd, type: 3}
+  m_Name: Drugs_4
+  m_EditorClassIdentifier: 
+  weaponId: 4
+  weaponSprite: {fileID: -3178962632439488433, guid: 43ec37eefe6bf8e45a82f7ca8bd25597,
+    type: 3}
+  weapon: {fileID: 8388685741571663641, guid: 3275b1e3d61cf844ca4eb133a1c70b58, type: 3}
+  useProjectile: 1
+  followCursor: 0
+  projectile: {fileID: 8777360688628206530, guid: 9d357a0cac6fa4d47a08b9f5a613b3f5,
+    type: 3}
+  fireRate: 10
+  damage: 0
+  speed: 1000
+  destroyTime: 1
+  ammo: 10
+  throwSpeed: 1000
+  throwDamage: 20
+  throwDestroyTime: 2
+  offset: {x: 0, y: 0}
+  launchPoint: {x: 0, y: 0}
